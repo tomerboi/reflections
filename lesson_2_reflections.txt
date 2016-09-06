@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do i
+it take snap shot of all documents in the repository.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+you can put there only few files from the repository, the ones that have changed.
